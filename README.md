@@ -1,5 +1,6 @@
-### Hi there 👋
-<!-- <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-contribution-grid-snake.svg"> -->
+<img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
+
+### How's it going, y'all
 
 <!--
 **Fiattarone/Fiattarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
