@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://ionicabizau.github.io/github-profile-languages/api.html?fiattarone) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fiattarone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fiattarone&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Fiattarone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiattarone&count_private=true&show_icons=true&theme=radical)
 
