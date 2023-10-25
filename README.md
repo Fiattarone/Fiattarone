@@ -1,5 +1,4 @@
-# INTRODUCING...
-### FEATS:
+# FEATS:
 ### Centered a Div
 ### Wrote a FUNCTIONAL program in VBA 
 ### I'll stop now before I impress you to death 
