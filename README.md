@@ -1,5 +1,8 @@
 # INTRODUCING...
-### The Man Who Once Centered A Div
+### FEATS:
+### Centered a Div
+### Wrote a FUNCTIONAL program in VBA 
+### I'll stop now before I impress you to death 
 
 <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
 
