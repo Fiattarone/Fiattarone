@@ -4,7 +4,7 @@
 - Wrote a **FUNCTIONAL** program in VBA 
 - I'll stop now before I impress you to death 💫
 
-🔭 I’m currently working on rabbithole, and just finished enpyapi. Shoot a PR if you have any ideas, or just hit me up or something. Love to collab.
+🔭 I’m currently working on volley with Pegasus Innovations, let me know if something strikes ya fancy.
 
 <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
 
