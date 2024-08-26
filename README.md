@@ -4,7 +4,7 @@
 - Wrote a **FUNCTIONAL** program in VBA 
 - I'll stop now before I impress you to death 💫
 
-🔭 I’m currently working on volley with Pegasus Innovations, let me know if something strikes ya fancy.
+🔭 I’m currently working on Volley with Pegasus Innovations, let me know if something strikes ya fancy.
 
 <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
 
