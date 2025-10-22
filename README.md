@@ -1,10 +1,4 @@
-# FEATS:
-
-- Centered a Div
-- Wrote a **FUNCTIONAL** program in VBA 
-- I'll stop now before I impress you to death 💫
-
-🔭 I’m currently working on Volley with Pegasus Innovations, let me know if something strikes ya fancy.
+🔭 Ask me about Soular, video coming soon. Just broke 100k LOC in the repo. 🎩
 
 <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
 
