@@ -1,4 +1,4 @@
-🔭 Ask me about Soular, video coming soon. Just broke 100k LOC in the repo. 🎩
+🔭 Soular on pause, will return soon. Rollout cookin 🎩
 
 <img src="https://raw.githubusercontent.com/Fiattarone/Fiattarone/output/github-snake-dark.svg?palette=github-dark">
 
